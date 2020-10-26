@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_Au_Io_Uart_Vga_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_Au_Io_Uart_Vga_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="15501250000fs"></ZoomEndTime>
+      <Cursor1Time time="15501250000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="155"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/val3" type="array">
+      <obj_property name="ElementShortName">val3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">val3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/val2" type="array">
+      <obj_property name="ElementShortName">val2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">val2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/val1" type="array">
+      <obj_property name="ElementShortName">val1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">val1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/val0" type="array">
+      <obj_property name="ElementShortName">val0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">val0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/tb_usb_tx" type="logic">
+      <obj_property name="ElementShortName">tb_usb_tx</obj_property>
+      <obj_property name="ObjectShortName">tb_usb_tx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/tx_send" type="logic">
+      <obj_property name="ElementShortName">tx_send</obj_property>
+      <obj_property name="ObjectShortName">tx_send</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/tx_empty" type="logic">
+      <obj_property name="ElementShortName">tx_empty</obj_property>
+      <obj_property name="ObjectShortName">tx_empty</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/tx_err" type="logic">
+      <obj_property name="ElementShortName">tx_err</obj_property>
+      <obj_property name="ObjectShortName">tx_err</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/tx_data" type="array">
+      <obj_property name="ElementShortName">tx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/tx_req" type="logic">
+      <obj_property name="ElementShortName">tx_req</obj_property>
+      <obj_property name="ObjectShortName">tx_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/tx_rdy" type="logic">
+      <obj_property name="ElementShortName">tx_rdy</obj_property>
+      <obj_property name="ObjectShortName">tx_rdy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/tx_out" type="logic">
+      <obj_property name="ElementShortName">tx_out</obj_property>
+      <obj_property name="ObjectShortName">tx_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/uart_state" type="array">
+      <obj_property name="ElementShortName">uart_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">uart_state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/wait_counter" type="array">
+      <obj_property name="ElementShortName">wait_counter[15:0]</obj_property>
+      <obj_property name="ObjectShortName">wait_counter[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/bit_count" type="array">
+      <obj_property name="ElementShortName">bit_count[3:0]</obj_property>
+      <obj_property name="ObjectShortName">bit_count[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_Au_Io_Uart_Vga_tb/Uart_TX/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+</wave_config>
