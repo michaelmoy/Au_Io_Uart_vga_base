@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          SPIX1
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0021728B    Oct 26 14:30:46 2020    C:/MoySandbox/my-fpga/Au_Io_Uart_vga_base/Au_Io_Uart_vga_base.runs/impl_1/top_Au_Io_Uart_Vga.bit
